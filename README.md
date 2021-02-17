@@ -25,9 +25,9 @@ To execute, follow the interface as in the problem statement: ./calc.py "(add 12
 Assuming the program is implemented in Python, invocations should look like:
 
 $ ./calc.py 123
-123
+-> 123
 
 $ ./calc.py "(add 12 12)"
-24
+-> 24
 
 
